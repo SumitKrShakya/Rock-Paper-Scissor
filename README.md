@@ -2,9 +2,13 @@
 Live Link : https://sumitkrshakya.github.io/Rock-Paper-Scissor/
 
 ### Hi there, I'm Sumit Kumar Shakya 👋 
+[![MIT License](https://img.shields.io/github/issues/SumitKrShakya/Rock-Paper-Scissor)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![GPLv3 License](https://img.shields.io/github/forks/SumitKrShakya/Rock-Paper-Scissor)](https://opensource.org/licenses/)
+
+[![AGPL License](	https://img.shields.io/github/stars/SumitKrShakya/Rock-Paper-Scissor)](http://www.gnu.org/licenses/agpl-3.0)
+
+[![AGPL License](	https://img.shields.io/github/license/SumitKrShakya/Rock-Paper-Scissor)](http://www.gnu.org/licenses/agpl-3.0)
 
 ## We build Rock Paper Scissor game for Local Hack Day.
 
